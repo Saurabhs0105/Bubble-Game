@@ -2,9 +2,11 @@
 College Project : Bubble Game with HTML, CSS, and JavaScript | Fun Web Development Project
 
 #Project-Link
+
 Project : https://bubblegame-project.netlify.app/ 
 
-#Video-Lick
+#Video-Link
+
 Youtube Video For Game Play : https://www.youtube.com/watch?v=lsRwjkMKbm0&t=13s&ab_channel=OPPsCodess
 
 # Description
